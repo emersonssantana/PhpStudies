@@ -1,0 +1,16 @@
+# Dependências do PHP (Composer)
+/vendor/
+composer.phar
+
+# Arquivos de ambiente e logs
+.env
+*.log
+
+# Editor (Visual Studio Code)
+.vscode/
+
+# Sistema Operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
