@@ -4,11 +4,11 @@ Repository dedicated to documenting my evolution in the PHP ecosystem.
 
 ## 🧠 Practical Exercises
 
-- **01 - 1_intro**: Initial configurations and basic syntax setup.
-- **02 - 2_conceitos_basicos**: Fundamental concepts covering case sensitivity, code instructions, comments, whitespace handling, and reserved words.
-- **03 - 3_tipos_de_dados**: Deep dive into PHP data types and manipulations.
-- **04 - 4_variaveis**: Scope, types, and best practices for variables.
-- **05 - 5_op_e_expressoes**: Operators, expressions, and logical control structures.
+- **01_intro**: Initial configurations and basic syntax setup.
+- **02_conceitos_basicos**: Fundamental concepts such as case sensitivity, comments, and syntax rules.
+- **03_tipos_de_dados**: Deep dive into PHP data types and manipulations.
+- **04_variaveis**: Scope, types, and best practices for variables.
+- **05_op_e_expressoes**: Operators, expressions, and logical control structures.
 
 ## 🛠️ Tech Stack & Core Concepts
 
