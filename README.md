@@ -11,6 +11,7 @@ Repository dedicated to documenting my evolution in the PHP ecosystem.
 - **05_op_e_expressoes**: Operators, expressions, and logical control structures.
 - **06_estruturas_de_controle**: Control structures such as conditionals (if/else, switch) and program flow.
 - **07_estruturas_de_repeticao**: Repetition structures such as while, for, foreach, and loop control statements.
+- **08_inclusao_de_arquivo**: Code inclusion using include, require, include_once, require_once, short tags, and PHP embedded in HTML.
 
 ## 🛠️ Tech Stack & Core Concepts
 
