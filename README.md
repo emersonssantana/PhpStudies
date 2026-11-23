@@ -12,6 +12,7 @@ Repository dedicated to documenting my evolution in the PHP ecosystem.
 - **06_estruturas_de_controle**: Control structures such as conditionals (if/else, switch) and program flow.
 - **07_estruturas_de_repeticao**: Repetition structures such as while, for, foreach, and loop control statements.
 - **08_inclusao_de_arquivo**: Code inclusion using include, require, include_once, require_once, short tags, and PHP embedded in HTML.
+- **09_funcoes**: Function declaration, invocation, parameters, default arguments, return values, variable scope, returning multiple data, and debugging (var_dump, print_r).
 
 ## 🛠️ Tech Stack & Core Concepts
 
